@@ -16,6 +16,9 @@
 		],
 		"born":[
 			{"file":"motions/5.mtn","sound":"Ev_Cv_Partner_1234_005_cn","text":155172,"sound_delay":0}
+		],
+		"idle":[
+			{"file":"motions/idle.mtn"}
 		]
 	},
 	"physics":"physics.json",
